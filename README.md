@@ -10,10 +10,7 @@ I'm **Sarankumar**, and this repository contains my submission for **Task 3** of
 
 ## 📋 Problem Statement
 
-The objective is to create a predictive model that accurately identifies which clients are likely to subscribe to a bank term deposit, using features from direct marketing campaigns carried out by a Portuguese banking institution. The full problem description can be found in the attached image:
-
-<img src="problem_statement_task3.png" alt="Task 3 Problem Statement" style="width:70%; max-width:600px;">
-
+The objective is to create a predictive model that accurately identifies which clients are likely to subscribe to a bank term deposit, using features from direct marketing campaigns carried out by a Portuguese banking institution. 
 ---
 
 ## 🌍 About the Dataset
