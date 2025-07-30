@@ -4,7 +4,7 @@
 <img src="Prodigy_task_03.png" alt="Task 3 Banner" style="width:100%; max-width:700px;">
 
 Hi there!  
-I'm **Sarankumar**, and this repository contains my submission for **Task 3** of the **Prodigy Infotech Data Science Internship**. In this task, I built and evaluated decision tree classifiers to predict whether a customer will purchase a product or service, based on demographic and behavioral data from a real-world bank marketing dataset.
+I'm **Madhiyazhagan**, and this repository contains my submission for **Task 3** of the **Prodigy Infotech Data Science Internship**. In this task, I built and evaluated decision tree classifiers to predict whether a customer will purchase a product or service, based on demographic and behavioral data from a real-world bank marketing dataset.
 
 ---
 
